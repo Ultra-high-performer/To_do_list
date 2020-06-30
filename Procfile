@@ -1,0 +1,1 @@
+web: gunicorn virat_centuries.wsgi --log-file -
